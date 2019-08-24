@@ -1,0 +1,7 @@
+{
+	"name": "IRLocalMachine",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Integration Runtime for the Local Machine connection"
+	}
+}
